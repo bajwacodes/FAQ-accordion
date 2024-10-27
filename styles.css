@@ -143,6 +143,10 @@ body{
     font-weight: 600;
 }
 
+.question-txt:hover{
+  color: rgb(177, 61, 212)
+}
+
 .answer-box{
     display: none;
 }
